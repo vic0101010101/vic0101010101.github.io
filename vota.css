@@ -1,0 +1,55 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+header {
+    background-color: #e00e0e;
+    padding: 20px 0;
+    text-align: center;
+}
+div {
+    color:rgb(5, 4, 5);
+    font-size: 40px; font-family: "BELL MT";
+}
+nav {
+    background-color: #589b2b;
+    color: #0b0c0b;
+    text-align: center;
+    padding: 10px 0;
+}
+nav a {
+    color: #e9d3d3;
+    text-decoration: none;
+    margin: 0 10px;
+}
+.shaded-button {
+    background-color: #4CAF50; /* Green background */
+    border: black;
+    color: white; /* White text */
+    padding: 15px 32px; /* Padding */
+    text-align: center; /* Center text */
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 8px; /* Rounded corners */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Shaded effect */
+}
+  
+.shaded-button:hover {
+    background-color: #45a049; /* Darker green on hover */
+}
+h1 {
+    margin: 0 325px;
+}
+IMG{
+    margin: 0 80px;
+}
+.item {
+    border: 1px solid #0c0b0b;
+    padding: 20px;
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
